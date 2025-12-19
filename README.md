@@ -14,4 +14,4 @@ Create a program that reads various numerical data from a file
 
 6. Reading survey results:
 Create a program that reads the answers to the questions
-(8 questions and answers).
+(8 questions and answers)..
